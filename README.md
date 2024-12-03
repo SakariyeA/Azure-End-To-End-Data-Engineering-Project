@@ -1,1 +1,1 @@
-# End-To-End-Data-Engineering-Project  (Azure Data Factory, Databricks, DBT, Azure Data Lake Gen 2)
+# End-To-End-Data-Engineering-Project  (Azure Data Factory, Databricks, DBT, ADLS Gen 2)
