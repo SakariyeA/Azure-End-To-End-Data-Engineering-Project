@@ -1,0 +1,9 @@
+{
+	"name": "medallionadff",
+	"location": "swedencentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1b59448e-fd63-4358-bde7-e93ef935e4fa",
+		"tenantId": "20e9e658-d844-4d9c-a0b7-36389d71736f"
+	}
+}
