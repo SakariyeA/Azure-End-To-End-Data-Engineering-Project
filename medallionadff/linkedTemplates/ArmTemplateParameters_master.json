@@ -20,6 +20,9 @@
 		"AzureDataLakeStorage1_properties_typeProperties_url": {
 			"value": "https://medallionsto.dfs.core.windows.net/"
 		},
+		"AzureDatabricks_properties_typeProperties_existingClusterId": {
+			"value": "1204-172149-7icppefu"
+		},
 		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
 			"value": "1203-130618-98g0ha9z"
 		},
