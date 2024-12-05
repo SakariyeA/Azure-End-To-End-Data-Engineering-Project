@@ -17,7 +17,7 @@ End-to-End Azure Data Engineering Project Summary
 
 2. Data Ingestion
 
-    Data ingested from multiple sources into the Bronze Layer of the Azure Data Lake Gen2 in raw format.
+    Data ingested from Azure SQL Database (AdventureWorksLT2017) into the Bronze Layer of the Azure Data Lake Gen2 in raw format.
     Azure Data Factory Pipelines:
         Configured pipelines to extract, load, and store raw data into the /bronze layer of the Data Lake.
         Automated scheduling and monitoring for consistent data ingestion.
@@ -35,7 +35,7 @@ End-to-End Azure Data Engineering Project Summary
 
     Loaded refined data from the Silver Layer into:
         The Gold Layer in the Data Lake for aggregated and analytics-ready data.
-        Azure SQL Database for further structured reporting and analysis.
+        Azure Synapse for further structured reporting and analysis.
 
 5. Data Reporting
 
